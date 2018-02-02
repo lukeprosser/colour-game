@@ -4,11 +4,11 @@ This project formed part of The Web Developer Bootcamp, an online course taught 
 
 It draws together many of the skills I've learned in HTML, CSS and JavaScript.
 
-Not only can the game be played for fun, but also helps me to brush up on my RGB knowledge!
+Not only can the game be played for fun, but it also helps me to brush up on my RGB knowledge!
 
 ## How it works
 
-When the script initialises, it generates a random RGB colour and displays it in the header. An array of coloured squares is displays, one of which contains the correct colour.
+When the script initialises, it generates a random RGB colour and displays it in the header. An array of coloured squares is displayed, one of which contains the correct colour.
 
 There are two difficulty settings: 'Easy' and 'Hard'. In the Hard setting, displayed by default, there are 6 colours to choose from. 
 
